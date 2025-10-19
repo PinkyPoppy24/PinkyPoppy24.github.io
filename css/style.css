@@ -1,0 +1,31 @@
+h1{ 
+	font-family: serif;
+	color: #ffe0f9;
+	font-weight: 800;
+	font-size: 4em;
+	text-decoration: underline#ff19be;
+
+}
+.row {
+	height: 65h; /* For X% screen height */;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+p{
+	font-size: 1.5em;
+	font-weight: bolder;
+	color: #ffe0f9;
+}
+
+p{
+	font-family: serif;
+}
+
+body{
+	background-image: url("../img/GLITTER2.PNG");
+	/*background-repeat: no-repeat;
+	background-size: cover;*/
+
+}
